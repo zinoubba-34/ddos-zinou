@@ -1,2 +1,0 @@
-# ddos-zinou
-ddos-zinou
